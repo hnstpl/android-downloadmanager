@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Downloadmanager</string>
+    <string name="download_interrupted">Download Interupted</string>
+    <string name="download_content_size_text">( %1$s / %2$s )</string>
+</resources>
